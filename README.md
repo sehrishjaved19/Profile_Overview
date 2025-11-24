@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 3rd Semester Computer Science Student at GCUF | 💻 Focused on Web Development & Programming <br>
-🌐 C++ • Python • JavaScript • HTML • CSS • GitHub • VS Code
+🌐 C++ • SQL • Python • JavaScript • HTML • CSS • GitHub • VS Code
 </p>
 
 ---
@@ -51,18 +51,6 @@ I have completed several **industry-recognized certifications** from **Coursera 
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sehrishjaved19&show_icons=true&theme=radical" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishjaved19&layout=compact&theme=radical" />
 </p>
-
----
-
-## 🔗 Pull Shark Badge
-
-<p align="center">
-  <a href="https://github.com/users/sehrishjaved19/achievements/pull-shark">
-    <img alt="Pull Shark" src="https://api.pullshark.dev/badge/sehrishjaved19" />
-  </a>
-</p>
-
-> Pull Shark tracks your **PR contributions** and shows your impact in repositories.
 
 ---
 
